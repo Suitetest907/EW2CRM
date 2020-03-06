@@ -1,0 +1,8 @@
+[04-Mar-2020 10:04:04 UTC] PHP Fatal error:  Uncaught Exception: cron.php running with user that is not in allowed_cron_users in config.php in /home/ew2crmco/public_html/ew2crm/include/utils.php:1795
+Stack trace:
+#0 /home/ew2crmco/public_html/ew2crm/cron.php(70): sugar_die('cron.php runnin...')
+#1 {main}
+  thrown in /home/ew2crmco/public_html/ew2crm/include/utils.php on line 1795
+[04-Mar-2020 09:03:18 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/ew2crmco/public_html/ew2crm/include/SubPanel/SubPanelTiles.php on line 386
+[04-Mar-2020 09:03:26 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/ew2crmco/public_html/ew2crm/include/SubPanel/SubPanelTiles.php on line 386
+[04-Mar-2020 09:03:35 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/ew2crmco/public_html/ew2crm/include/SubPanel/SubPanelTiles.php on line 386
